@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Loc
 - 🌱 I’m work with Nextjs, ReactJS, TailwindCSS, Vitejs, ExpressJs, Nodejs, Zustand, Redux Toolkit, Tanstack
-- 📫 I want to improve my English and programming skills. I hope to be able to become a full stack developer. 
+[![Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,nodejs,nextjs)](https://github.com/Just-Loc)
 
 ### 📫 How To Contact Me:
 
