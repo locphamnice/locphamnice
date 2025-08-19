@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Loc
 - 🌱 I’m work with Nextjs, ReactJS, TailwindCSS, Vitejs, ExpressJs, Nodejs, Zustand, Redux Toolkit, Tanstack
-[![Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,nodejs,nextjs)](https://github.com/Just-Loc)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,nodejs,nextjs,nestjs)](https://github.com/Just-Loc)
 
 ### 📫 How To Contact Me:
 
