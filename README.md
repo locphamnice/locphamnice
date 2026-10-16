@@ -7,19 +7,6 @@
 
 ---
 
-### 🤖 AI & LLM
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=white)
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
